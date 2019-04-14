@@ -1,4 +1,4 @@
-weight = 5000; plT=0; plC=0;min=0
+weight = 5000; plT=0; plC=0; min=0
 vehicleW = input('Write the weight of the vehicle: ')
 min=vehicleW
 while vehicleW < weight:
