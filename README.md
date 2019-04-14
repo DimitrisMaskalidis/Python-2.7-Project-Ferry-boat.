@@ -5,7 +5,7 @@ and cars. The fee for the trucks is 100$ and for the cars 70$.
 
 Create a program that:
 
-   A1. its gonna read the weight of the vehicle and if it doesnt overcome
+   A1. Its gonna read the weight of the vehicle and if it doesnt overcome
        the total weight of the ship it enters it. After entering it will
        read what vehicle it is T for Trucks and C for Cars with a check that
        makes sure it is a T or a C and not something else. if the vehicle cant
